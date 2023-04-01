@@ -1,0 +1,91 @@
+[
+    {
+      "name": "Margherita",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 99,
+          "medium": 199,
+          "large": 399
+        }
+      ],
+      "category": "veg",
+      "image": "https://static.toiimg.com/thumb/56868564.cms?imgsize=1948751&width=800&height=800",
+      "description": "Classic delight with 100% real mozzarella cheese"
+    },
+    {
+      "name": "Farmhouse",
+     "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 229,
+          "medium": 399,
+          "large": 599
+        }
+      ],
+      "category": "veg",
+      "image": "https://www.dominos.co.in//files/items/Farmhouse.jpg",
+      "description":
+        "Delightful combination of onion, capsicum, tomato & grilled mushroom"
+    },
+    {
+      "name": "Veggie Paradise",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 180,
+          "medium": 290,
+          "large": 460
+        }
+      ],
+      "category": "veg",
+      "description":
+        "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+      "image": "https://www.dominos.co.in//files/items/Digital_Veggie_Paradise_olo_266x265.jpg"
+    },
+    {
+      "name": "Chicken Golden Delight",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 249,
+          "medium": 349,
+          "large": 599
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://5.imimg.com/data5/LH/KC/MY-29540739/chicken-golden-delight-500x500.png",
+      "description":
+        "Double pepper barbecue chicken, golden corn and extra cheese, true delight"
+    },
+    {
+      "name": "Chicken Pepperoni",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 320,
+          "medium": 580,
+          "large": 800
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://5.imimg.com/data5/BK/AP/PG/ANDROID-9431642/product-jpeg-500x500.jpg",
+      "description":
+        "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese"
+    },
+    {
+      "name": "Indi Chicken Tikka",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 380,
+          "large": 500
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://static.onecms.io/wp-content/uploads/sites/19/2013/02/22/chicken-tikka-pizzas-ck-x.jpg",
+      "description":
+        "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo"
+    }
+  ]
