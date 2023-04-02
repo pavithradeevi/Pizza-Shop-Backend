@@ -54,7 +54,7 @@ if (process.env.NODE_ENV === "production") {
   .then(() => console.log("MongoDB connected Successfully"))
   .catch((error) => console.error("MongoDB connection failed:", error.message));
 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 8080;
 app.listen(port, () => {
   console.log(
     `Server Running On ${process.env.NODE_ENV} mode on port no ${process.env.PORT}`
