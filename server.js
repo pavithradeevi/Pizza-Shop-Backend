@@ -41,7 +41,7 @@ if (process.env.NODE_ENV === "production") {
     });
   } else {
     app.get("/", (req, res) => {
-      res.send("<h1>Hello All!welcome to pizza Store</h1>");
+      res.send("<h1>Hello All!welcome to pizza Shop</h1>");
     });
   }
 
